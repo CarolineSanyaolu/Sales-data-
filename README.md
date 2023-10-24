@@ -26,3 +26,8 @@ I also observed that the total discount given out was very high and must be a ma
 ## Conclusion
 
 The stakeholders of this company need to do further analysis to improve performance as early as possible to avoid further loss.
+
+## Further Analysis
+
+I was given some more tasks on the dataset to dig deeper for insights and a better understanding.
+
